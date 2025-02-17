@@ -4,7 +4,7 @@ createTime: 2025/01/23 15:32:26
 permalink: /sk3/tool/browser/
 ---
 
-## 🔥 **SK3指纹浏览器上线啦！前200名新用户注册免费送50个账户！**
+## 🔥 **SK3指纹浏览器多开防关联利器*** 注册即送50个窗口！**
 ---
 
 ![alt text](browser.jpg)
