@@ -7,21 +7,10 @@ permalink: /sk3/tool/browser/
 ## 🔥 **SK3指纹浏览器多开防关联利器*** 注册即送50个窗口！**
 ---
 
-
- <ImageCard
-        image="https://github.com/Dear-Jn/Sk3browser/blob/main/image/1.jpg"
-        title="SK3browser"
-        description=""
-        author="SK3"
-        date="2025/01"
-      />
- <p style="text-align: center; color: #888; font-size: 0.9em;">
+![alt text](./image/1.jpg)
 本地离线无云端|安全可靠|环境隔离|独立IP|指纹定制
 </p>
 ---
-![alt text](browser.jpg)
-
-
 
 ## 🌟 为什么选择SK3？
 ▸▸撸个毛不容易，指纹浏览器被盗的消息层出不穷，大公司的数据被掌控在不同的人手中非常复杂，被盗了不知道纠谁的责任。 
